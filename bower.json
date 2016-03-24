@@ -1,0 +1,38 @@
+{
+  "name": "polymer-admin",
+  "homepage": "https://github.com/aruntk/polymer-admin",
+  "authors": [
+    "tkay <aruntknambiar@gmail.com>"
+  ],
+  "description": "Admin dashboard made with polymer",
+  "main": "polymer-admin.html",
+  "moduleType": [],
+  "keywords": [
+    "polymer",
+    "admin",
+    "dashboard",
+    "material",
+    "design"
+  ],
+  "dependencies": {
+    "gold-elements": "polymerelements/gold-elements#~1.0.0",
+    "iron-accordions": "~1.0.0",
+    "iron-elements": "PolymerElements/iron-elements#~1.0.0",
+    "iron-splitter": "JC-Orozco/iron-splitter#~1.0.0",
+    "load-awesome": "~1.1.0",
+    "neon-elements": "PolymerElements/neon-elements#~1.0.0",
+    "paper-button-group": "arunhedcet/paper-button-group#~1.0.0",
+    "paper-date-picker": "polymer-paper-datepicker#~1.0.0",
+    "paper-elements": "PolymerElements/paper-elements#~1.0.0",
+    "paper-rangeslider": "arunhedcet/paper-rangeslider#~0.0.1",
+    "polymer": "Polymer/polymer#~1.0.0"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
