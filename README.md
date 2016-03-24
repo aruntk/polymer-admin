@@ -1,8 +1,6 @@
 # polymer-admin
 Admin dashboard made with polymer
 
-....
-
 ## Todo
 
 ### Elements
