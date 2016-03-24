@@ -25,6 +25,7 @@
     "paper-date-picker": "polymer-paper-datepicker#~1.0.0",
     "paper-elements": "PolymerElements/paper-elements#~1.0.0",
     "paper-rangeslider": "arunhedcet/paper-rangeslider#~0.0.1",
+    "paper-time-picker": "bendavis78/paper-time-picker#~1.1.2",
     "polymer": "Polymer/polymer#~1.0.0"
   },
   "license": "MIT",
