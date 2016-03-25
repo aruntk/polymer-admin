@@ -14,6 +14,7 @@ Admin dashboard made with polymer elements.
 
 - [x] Accordion - https://github.com/alijaya/iron-accordions/
 - [ ] Bread Crumbs
+- [x] Button group - https://github.com/aruntk/paper-button-group
 - [ ] Calender
 - [ ] Cards
 - [ ] Carousal
